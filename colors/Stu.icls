@@ -1,0 +1,99 @@
+<scheme name="Stu" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="525252" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="525252" />
+      </value>
+    </option>
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="646063" />
+        <option name="ERROR_STRIPE_COLOR" value="756d56" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="292728" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="949494" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+  </attributes>
+</scheme>
