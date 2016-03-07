@@ -1,8 +1,18 @@
 <application>
-  <component name="ErrorReportConfigurable">
-    <option name="ITN_LOGIN" value="" />
-    <option name="ITN_PASSWORD_CRYPT" value="" />
-    <option name="KEEP_ITN_PASSWORD" value="false" />
-    <option name="EMAIL" value="" />
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
 </application>
