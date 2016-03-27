@@ -1,13 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ToggleFullScreen" is_action="true" action_type="1" position="1">
+    <group value="Git.Branches" is_action="true" action_type="1" position="0">
       <path value="root" />
-      <path value="Debug Tool Window Left Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Debug Tool Window Left Toolbar" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
